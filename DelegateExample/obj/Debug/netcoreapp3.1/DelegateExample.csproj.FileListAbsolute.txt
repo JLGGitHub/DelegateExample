@@ -1,0 +1,13 @@
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.exe
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.deps.json
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.json
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.dev.json
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.dll
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.pdb
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.csprojAssemblyReference.cache
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfo.cs
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.dll
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.pdb
+C:\Users\jgomezm\source\repos\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.genruntimeconfig.cache
