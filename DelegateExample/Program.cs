@@ -10,29 +10,18 @@ namespace DelegateExample
         /// <summary>
         /// 
         /// </summary>
-        private static void func1()
-        {
-            Thread.Sleep(1000);  // Se espera 1 segundo, 
-
-        }
+        private static void func1() => Thread.Sleep(1000);
 
         /// <summary>
         /// 
         /// </summary>
-        private static void func2()
-        {
-            Thread.Sleep(2000);  // Se espera 1 segundo, 
-
-        }
+        private static void func2() => Thread.Sleep(2000);
 
         /// <summary>
         /// 
         /// </summary>
-        private static void func3()
-        {
-            Thread.Sleep(3000);  // Se espera 1 segundo, 
-
-        }
+        private static void func3() => Thread.Sleep(3000);
+      
 
         private static double MeasureExecutionTime(CallMethod callMethod)
         {
@@ -45,8 +34,8 @@ namespace DelegateExample
         static void Main(string[] args)
         {
             Console.WriteLine($"Tiempo de ejecucion en func1 {MeasureExecutionTime(func1)} Ms");
-            Console.WriteLine($"Tiempo de ejecucion en func1 {MeasureExecutionTime(func2)} Ms");
-            Console.WriteLine($"Tiempo de ejecucion en func1 {MeasureExecutionTime(func3)} Ms");
+            Console.WriteLine($"Tiempo de ejecucion en func2 {MeasureExecutionTime(func2)} Ms");
+            Console.WriteLine($"Tiempo de ejecucion en func3 {MeasureExecutionTime(func3)} Ms");
         }
     }
 }
